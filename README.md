@@ -279,3 +279,4 @@ O MVP está funcional para uso local com:
 ## Licença
 
 Este projeto foi desenvolvido como aplicação local de demonstração e estudo, sem uma licença comercial definida.
+- **Status do Projeto:** Em desenvolvimento e estruturação de arquitetura.
